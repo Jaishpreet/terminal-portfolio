@@ -1,0 +1,1 @@
+This a simple terminal style portfolio website made for my OST experiments.
